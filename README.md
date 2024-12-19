@@ -18,6 +18,12 @@ ls -alt
 3.4
 
 
+![image](https://github.com/user-attachments/assets/c444a1c5-c957-4bd9-9216-81ed73151bd4)
+
+
+
+
+
 3.5
 chmod
 ![image](https://github.com/user-attachments/assets/dcf4b9e0-f2fb-42bc-b651-c2d89d7d64db)
